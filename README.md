@@ -1,4 +1,4 @@
-<p align="center"><img src="icon.ico" height="40" alt=""></p>
+<p align="center"><img src="icon.ico" height="70" alt=""></p>
 <h3 align="center">Process Manager</h3>
 
 Just a simple process manager app made to kill apps like the Windows task manager but with modern UI (material design) made with C#.
